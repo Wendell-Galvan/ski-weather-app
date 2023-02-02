@@ -1,0 +1,7 @@
+.navbar {
+  background-color: rgb(178, 203, 203);
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  text-align: center;
+}
