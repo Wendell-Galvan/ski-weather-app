@@ -42,7 +42,7 @@ function Crystal() {
             <p>Feels Like</p>
           </div>
           <div className="snow">
-            <p className="bold">{data.snow ? data.snow : 0}"</p>
+            <p className="bold">{data.snow ? data.snow["1h"] : 0}"</p>
             <p>Snow</p>
           </div>
           <div className="wind">
